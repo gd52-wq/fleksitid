@@ -1,10 +1,10 @@
 {
-  "id": "./",
+  "id": "./v2",
   "name": "Min fleksitid",
-  "short_name": "Fleksitid",
+  "short_name": "Fleksitid v2",
   "description": "Personlig fleksitidslogg med lokal lagring.",
   "lang": "nb-NO",
-  "start_url": "./",
+  "start_url": "./?v=2",
   "scope": "./",
   "display": "standalone",
   "background_color": "#0f172a",
